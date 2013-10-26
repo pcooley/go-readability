@@ -5,8 +5,10 @@ Calculating Readability for the English language
 
 ==============
 
-This project was started by Paul Cooley as an attempt
-to build something in go.
+This project was started by Paul Cooley as a:
+* attempt to construct something in go.
+* get more familar with git/github
+* code more
 
 Objective:
 * Web-service that when given a string of english text returns 
