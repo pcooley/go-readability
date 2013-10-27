@@ -1,0 +1,18 @@
+// 
+// The basic interface for the readability
+// 
+//
+
+struct ReadabilityRequest {
+  text string
+}
+
+struct ReadabilityResponse {
+  length string
+}
+
+interface ReadabilityService {
+  
+  readability(req ReadabilityRequest) ReadabilityResponse
+
+}
