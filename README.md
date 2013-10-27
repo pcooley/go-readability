@@ -18,9 +18,8 @@ Objective:
 
 
 TODO:
-  * Define Interface - barrister IDL?
  * Take in POST'ed text return word count, character count
  * Develop Algorithms
  ** Gunning FOG Index
  ** Recalculated Flesh Score
- 
+ * Integrate Scores into the Response
