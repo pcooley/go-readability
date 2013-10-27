@@ -18,8 +18,7 @@ Objective:
 
 
 TODO:
- * Create a Web-server
- * Define Interface - barrister IDL?
+  * Define Interface - barrister IDL?
  * Take in POST'ed text return word count, character count
  * Develop Algorithms
  ** Gunning FOG Index
