@@ -18,12 +18,14 @@ Objective:
 
 
 TODO:
+ * Understand Go packages/packaging.  Reformat project to conform
  * Integrate barrister and handle requests from public interface
  * Take in POST'ed text return word count, character count
  * Develop Algorithms
  ** Gunning FOG Index
  ** Recalculated Flesh Score
  * Integrate Scores into the Response
+ * Consider Security/Rate Limits/etc
 
 ==============
 How to run
