@@ -18,8 +18,28 @@ Objective:
 
 
 TODO:
+ * Integrate barrister and handle requests from public interface
  * Take in POST'ed text return word count, character count
  * Develop Algorithms
  ** Gunning FOG Index
  ** Recalculated Flesh Score
  * Integrate Scores into the Response
+
+==============
+How to run
+==============
+Compile:
+./build.sh
+Webserver:
+./readability-svr
+
+==============
+Make a request
+==============
+
+
+==============
+Defaults
+==============
+HTTP port:8080
+
